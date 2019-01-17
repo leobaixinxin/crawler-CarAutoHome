@@ -1,0 +1,24 @@
+{
+  "name": "crawler-carautohome",
+  "version": "1.0.0",
+  "description": "* 使用nodejs 爬取汽车之家上的产品库数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leobaixinxin/crawler-CarAutoHome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leobaixinxin/crawler-CarAutoHome/issues"
+  },
+  "homepage": "https://github.com/leobaixinxin/crawler-CarAutoHome#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "iconv-lite": "^0.4.24",
+    "puppeteer": "^1.11.0"
+  }
+}
