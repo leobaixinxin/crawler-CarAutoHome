@@ -4,7 +4,8 @@
   "description": "* 使用nodejs 爬取汽车之家上的产品库数据",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "crawl":"node index.js"
   },
   "repository": {
     "type": "git",
